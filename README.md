@@ -1,5 +1,5 @@
 # Simple web chat
 
-This is backend of my project.
+This is backend part of my project.
 
 Frontend repo: https://github.com/1Vlod/chat-app
